@@ -1,7 +1,7 @@
-Hi there, I'm Anmol Choudhary! 👋
+Hi there, I'm Anmol Choudhary! 👋 <br>
 I'm a Software Engineer with a passion for Python, HTML, CSS, Javascript, MYSQL, and Full-Stack. Welcome to my GitHub profile! Here you'll find a variety of projects and contributions reflecting my interests, skills, and experiences.
 
-About Me
+About Me <br>
 🔭 I’m currently taking training at Croma Campus Noida.
 🌱 I’m currently learning Pyhton and Full-Stack.
 👯 I’m looking to collaborate on Python and Full-Stack.
